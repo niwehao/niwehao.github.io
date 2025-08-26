@@ -1,4 +1,4 @@
-# Page
+# About me
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 <div style="flex: 1;">
@@ -10,7 +10,12 @@ Previously, I completed the first year of my Master's degree at École Polytechn
 </div>
 <div style="flex: 0 0 300px;">
 
-<img src="image.png" alt="Professor Photo" style="width: 100%; max-width: 300px;">
+
+
+
+<img src="image.png" alt="My Photo" style="width: 100%; max-width: 300px;">
 
 </div>
 </div>
+
+m

@@ -1,3 +1,7 @@
+---
+title: "Weihao NI"
+---
+
 # About me
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">

@@ -1,25 +1,18 @@
----
-title: "Weihao NI"
----
-
+<head>
+    <title>Weihao NI</title>
+</head>
 # About me
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 <div style="flex: 1;">
 
-I'm currently pursuing a Master's degree in Computer Architecture and Data Processing Unit (DPU) Optimization at Paris-Saclay University. My research interests include DPU scheduling, simulation, performance evaluation, and compiler optimization for specialized processing architectures.
+<p>I'm currently pursuing a Master's degree in Parallel and Distributed Computing at Paris-Saclay University. My research interests include computer architecture, MLsys, operating systems, and compiler optimization for specialized processing architectures.</p>
 
-Previously, I completed the first year of my Master's degree at École Polytechnique in Paris, majoring in Computer Science. I received my Bachelor's degree in Computer Science from Beijing University of Posts and Telecommunications.
+<p>Previously, I completed the first year of my Master's degree at École Polytechnique in Paris, majoring in Computer Science. I hold a Bachelor's degree from Beijing University of Posts and Telecommunications.</p>
 
 </div>
 <div style="flex: 0 0 300px;">
-
-
-
-
 <img src="image.png" alt="My Photo" style="width: 100%; max-width: 300px;">
-
 </div>
 </div>
-
-m
+# About me

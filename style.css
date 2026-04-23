@@ -72,9 +72,9 @@ hr {
 div.visitor-map {
   text-align: center;
   margin: 20px 0 0 0;
-  transform: scale(0.6);
+  transform: scale(0.667);
   transform-origin: top center;
-  height: 180px;
+  height: 200px;
 }
 
 p.footer {
